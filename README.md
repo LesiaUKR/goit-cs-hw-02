@@ -1,4 +1,4 @@
-# HW | Fundamentals of Operating Systems | goit-cs-hw-02
+# HW | Fundamentals of Operating Systems
 
 Today's homework consists of two independent tasks aimed at using the Bash command line to automate processes and deepen your understanding of Docker and containerization.
 
